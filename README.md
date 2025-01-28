@@ -1,1 +1,3 @@
 # Power-BI-Shopify-Analysis
+Power BI Analysis of Shopify Apps - Conducted a comprehensive analysis of Shopify apps using Power BI to determine key success factors. The project involved creating visualizations to explore app statistics, review dynamics, and developer responsiveness. Insights provided a deeper understanding of app performance and areas for improvement.
+simple data aggregation and use of visualization for this project was conducted. The project informs the viewer of the ratings and review counts of users of the applications. I have uploaded the images of keen insights in this repository on three other files. 
